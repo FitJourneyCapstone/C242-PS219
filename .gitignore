@@ -1,0 +1,21 @@
+# Ignore VS Code Settings
+.vscode/
+
+# Ignore directories
+/data
+/.venv
+
+# Ignore specific files
+capstone 22 Nov 2024.ipynb
+capstone.ipynb
+diet-recommendation-system.ipynb
+FitJourney_Meal_Selection.ipynb
+FitJourneyOld.ipynb
+kaggle.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
