@@ -19,7 +19,7 @@ AI Health Care is a project that leverages artificial intelligence and machine l
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/zarlicho/Ai-health-care.git
+    git clone https://github.com/FitJourneyCapstone/C242-PS219.git
     ```
 2. Navigate to the project folder:
     ```bash
