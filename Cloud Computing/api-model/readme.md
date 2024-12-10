@@ -1,6 +1,6 @@
-# AI Health Care
+# API-Model
 
-AI Health Care is a project that leverages artificial intelligence and machine learning to assist in health-related predictions and recommendations based on user input. This project aims to improve the healthcare experience by providing personalized health suggestions and predictions.
+This project aims to improve the healthcare experience by providing personalized health suggestions and predictions.
 
 ## Features
 
@@ -23,7 +23,7 @@ AI Health Care is a project that leverages artificial intelligence and machine l
     ```
 2. Navigate to the project folder:
     ```bash
-    cd Ai-health-care
+    cd api-model
     ```
 3. Install the required dependencies:
     ```bash
