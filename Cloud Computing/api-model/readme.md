@@ -1,4 +1,4 @@
-# API-Models
+# API-Model
 
 This project aims to improve the healthcare experience by providing personalized health suggestions and predictions.
 
