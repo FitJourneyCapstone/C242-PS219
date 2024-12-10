@@ -23,7 +23,7 @@ This project aims to improve the healthcare experience by providing personalized
     ```
 2. Navigate to the project folder:
     ```bash
-    cd 
+    cd api-model
     ```
 3. Install the required dependencies:
     ```bash
