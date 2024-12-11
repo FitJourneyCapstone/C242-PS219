@@ -39,48 +39,7 @@ Ensure you have the following installed:
    npm start
    ```
 
-   The API will run at `http://localhost:3000` by default.
-
-## Endpoints
-
-### User Registration
-- **POST** `/api/register`
-- **Request Body:**
-  ```json
-  {
-    "username": "string",
-    "email": "string",
-    "password": "string"
-  }
-  ```
-- **Response:**
-  ```json
-  {
-    "message": "User registered successfully",
-    "user": {
-      "id": "string",
-      "username": "string",
-      "email": "string"
-    }
-  }
-  ```
-
-### User Login
-- **POST** `/api/login`
-- **Request Body:**
-  ```json
-  {
-    "email": "string",
-    "password": "string"
-  }
-  ```
-- **Response:**
-  ```json
-  {
-    "message": "Login successful",
-    "token": "string"
-  }
-  ```
+   The API will run at `http://localhost:8080`
 
 ## Security
 - Passwords are hashed using [bcrypt](https://github.com/kelektiv/node.bcrypt.js).
