@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 3. Configure environment variables by creating a `.env` file in the root directory:
    ```env
-   PORT=3000
+   PORT=8080
    MONGO_URI=<your-mongodb-atlas-connection-string>
    JWT_SECRET=<your-secret-key>
    ```
