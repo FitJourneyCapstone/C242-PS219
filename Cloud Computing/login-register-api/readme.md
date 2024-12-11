@@ -1,6 +1,6 @@
 # FitJourney Login-Register API
 
-This repository contains the Login-Register API for FitJourney, a fitness and nutrition tracking application. The API handles user authentication and account management using Node.js, MongoDB Atlas, and JSON Web Tokens (JWT).
+This repository contains the Login-Register API for FitJourney, an application designed to provide food recommendations based on user input. The API handles user authentication and account management using Node.js, MongoDB Atlas, and JSON Web Tokens (JWT).
 
 ## Features
 - User Registration
@@ -39,17 +39,14 @@ Ensure you have the following installed:
    npm start
    ```
 
-   The API will run at `http://localhost:8080`
+   The API will run at `http://localhost:8080` by default.
 
 ## Security
 - Passwords are hashed using [bcrypt](https://github.com/kelektiv/node.bcrypt.js).
 - JWT is used for secure authentication.
 
 ## Deployment
-This API can be deployed on any platform that supports Node.js. For cloud-based deployment, consider using [GCP Cloud Run](https://cloud.google.com/run) or other similar services.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This API is deployed on [Google Cloud Platform (GCP)](https://cloud.google.com/) for scalability and reliability. To deploy, use services like GCP Cloud Run or App Engine for seamless integration.
 
 ## Contributions
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or bug fixes.
