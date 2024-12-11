@@ -4,3 +4,6 @@ This project uses several API endpoints documented in Postman. You can access th
 
 - [Doc - Model](https://documenter.getpostman.com/view/25785249/2sAYBd8UCP): Documentation for Machine Learning models.
 - [Doc - Login & Register](https://documenter.getpostman.com/view/25785249/2sAYBd8UCQ): Documentation for login and register features.
+
+# Cloud Architecture
+![Cloud Architecture Diagram](https://drive.google.com/file/d/1vl7FvldTDFi1N2TqNG_OAELCiVvLULEG/view?usp=drive_link)
