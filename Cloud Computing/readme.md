@@ -8,5 +8,5 @@ This project uses several API endpoints documented in Postman. You can access th
 # Cloud Architecture
 ![Cloud Architecture Diagram](https://drive.google.com/uc?id=1qgzCd1IDm-oPikTYUUBMS3edo9SsT8Os)
 
-# Estimate Price Services
+# Estimated Service Price
 ![Google cloud pricing calculate](https://drive.google.com/uc?id=1hEeyz3KRDac56wySGndjGyfm6obl_hNa)
